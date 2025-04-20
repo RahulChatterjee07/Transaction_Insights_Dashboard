@@ -1,0 +1,6 @@
+Ticket ID: 55432
+Submitted: 2024-03-17 09:43
+Customer: Jane Doe
+Issue: Double charge on ride
+Details: Customer claims they were charged twice for the same trip on 2024-03-15.
+Initial Response: Awaiting investigation

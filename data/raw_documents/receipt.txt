@@ -1,0 +1,7 @@
+Vendor: Uber Canada
+Date: 2024-03-15
+Trip ID: 8UJKX82
+Fare: $32.45
+Taxes: $3.25
+Total Charged: $35.70
+Payment Method: Visa ****1234

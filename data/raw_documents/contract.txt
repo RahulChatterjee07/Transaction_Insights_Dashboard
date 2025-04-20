@@ -1,0 +1,7 @@
+Contract ID: CT-2024-0193
+Vendor: NorthWind Traders
+Effective Date: 2024-01-01
+End Date: 2024-12-31
+Service: Logistics backend integration
+Payment Terms: Net 30
+Total Value: $45,000
